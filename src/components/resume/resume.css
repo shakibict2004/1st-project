@@ -1,0 +1,66 @@
+.resume .title {
+    margin-top: 130px;
+    padding: 20px 139px 50px 139px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+  }
+  .resume_inner_title h4 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+  }
+  .resume_main {
+    display: flex;
+    margin-top: 103px;
+    width: 50%;
+  }
+  .resume_inner_left {
+    padding-right: 71px;
+  }
+  .resume_inner_title {
+    padding: 30px 47px 30px 0px;
+  }
+  .resume_inner_title .inner_main_title {
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 30px;
+  }
+  .resume_inner_title .sub_title {
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+    padding: 30px auto 10px 0px;
+  }
+  .resume_inner_title h5 {
+    font-size: 21px;
+    font-weight: 600;
+    color: #757575;
+    padding: 10px 96px 20px 0;
+  }
+  .resume_inner_title p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 511px;
+    padding: 20px 52px 30px 0px;
+    line-height: 28px;
+  }
+  .download_cv {
+    text-align: center;
+  }
+  .download_cv a {
+    padding: 18px 17px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    background: #fd6e0a;
+    color: #ffffff;
+  }
+  .download_cv i {
+    padding-right: 7px;
+    color: #ffffff;
+  }
+  
+  

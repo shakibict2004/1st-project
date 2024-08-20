@@ -1,0 +1,81 @@
+#Footer {
+    background-color: #fff8f3;
+    margin-top: 113px;
+    position: relative;
+  }
+  .footer_main {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 130px;
+    z-index: 1;
+  }
+  .footer_left h3 {
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+  }
+  .footer_left p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #474747;
+    width: 562px;
+    padding: 20px 19px 16px 0px;
+  }
+  .footer_left i {
+    padding: 24px;
+    color: #fd6e0a;
+  }
+  .footer_left i:first-child {
+    padding-left: 0;
+  }
+  .footer_right h3 {
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+  }
+  input {
+    padding: 10px;
+    height: 64px;
+    width: 461px;
+    margin-bottom: 24px;
+    border: transparent;
+  }
+  input::placeholder {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #757575;
+  }
+  textarea {
+    width: 461px;
+    height: 180px ;
+    border: transparent;
+    resize: none;
+  }
+  textarea::placeholder {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #757575;
+    padding: 10px;
+   
+  }
+  button {
+    border: transparent;
+    padding: 18px 39px;
+    background-color: #ff9e4a;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 24px;
+    cursor: pointer;
+    transition: background-color .3s ease;
+  
+  }
+  button:hover {
+    background-color: #fd6e0a;
+  }
+  
+  
